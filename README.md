@@ -1,4 +1,4 @@
-# EXCEL FORMULAS & CONDITIONAL FUNCTIONS
+# Excel Formulas & Conditional Functions
 This repository contains  Excel formulas and conditional functions applied to dataset. The dataset includes product details such as product names, categories, brands, and prices, and the following tasks will be solved using a series of Excel functions.
 
 # Dataset Overview
